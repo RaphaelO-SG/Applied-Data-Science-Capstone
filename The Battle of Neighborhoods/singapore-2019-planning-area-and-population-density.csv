@@ -1,56 +1,56 @@
 Name,Town,Density (/km2)
-kml_52,Ang Mo Kio,"13,400"
-kml_1,Bedok,"13,000"
-kml_51,Bishan,"12,000"
-kml_2,Boon Lay,3.6
-kml_3,Bukit Batok,"14,000"
-kml_4,Bukit Merah,"11,000"
-kml_5,Bukit Panjang,"15,000"
-kml_6,Bukit Timah,"4,400"
-kml_7,Central Water Catchment,0
+kml_52,Ang Mo Kio,13400.00
+kml_1,Bedok,13000.00
+kml_51,Bishan,12000.00
+kml_2,Boon Lay,3.60
+kml_3,Bukit Batok,14000.00
+kml_4,Bukit Merah,11000.00
+kml_5,Bukit Panjang,15000.00
+kml_6,Bukit Timah,4400.00
+kml_7,Central Water Catchment,0.00
 kml_8,Changi,80.62
-kml_38,Changi Bay,0
-kml_9,Choa Chu Kang,"30,000"
-kml_10,Clementi,"9,800"
-kml_40,Downtown Core,680
-kml_53,Geylang,"11,400"
-kml_11,Hougang,"16,000"
-kml_12,Jurong East,"4,400"
-kml_13,Jurong West,"18,000"
-kml_22,Kallang,"11,000"
-kml_23,Lim Chu Kang,5.2
-kml_50,Mandai,180.2
-kml_41,Marina East,0
-kml_42,Marina South,0
-kml_39,Marine Parade,"8,000"
-kml_43,Museum,480
-kml_44,Newton,"3,800"
-kml_24,North-Eastern Islands,1.2
-kml_25,Novena,"5,600"
-kml_45,Orchard,960.3
-kml_46,Outram,"13,500"
-kml_14,Pasir Ris,"9,600"
-kml_54,Paya Lebar,3.4
-kml_15,Pioneer,8.3
-kml_16,Punggol,"17,800"
-kml_17,Queenstown,"4,400"
-kml_34,River Valley,"6,800"
-kml_35,Rochor,"8,300"
-kml_18,Seletar,26.3
-kml_19,Sembawang,"8,400"
-kml_20,Sengkang,"23,000"
-kml_21,Serangoon,"11,500"
-kml_26,Simpang,0
-kml_36,Singapore River,"3,000"
-kml_27,Southern Islands,244
-kml_37,Straits View,0
-kml_28,Sungei Kadut,53.2
-kml_47,Tampines,"12,400"
-kml_48,Tanglin,"2,800"
-kml_49,Tengah,1.4
-kml_29,Toa Payoh,"14,300"
-kml_30,Tuas,2.3
+kml_38,Changi Bay,0.00
+kml_9,Choa Chu Kang,30000.00
+kml_10,Clementi,9800.00
+kml_40,Downtown Core,680.00
+kml_53,Geylang,11400.00
+kml_11,Hougang,16000.00
+kml_12,Jurong East,4400.00
+kml_13,Jurong West,18000.00
+kml_22,Kallang,11000.00
+kml_23,Lim Chu Kang,5.20
+kml_50,Mandai,180.20
+kml_41,Marina East,0.00
+kml_42,Marina South,0.00
+kml_39,Marine Parade,8000.00
+kml_43,Museum,480.00
+kml_44,Newton,3800.00
+kml_24,North-Eastern Islands,1.20
+kml_25,Novena,5600.00
+kml_45,Orchard,960.30
+kml_46,Outram,13500.00
+kml_14,Pasir Ris,9600.00
+kml_54,Paya Lebar,3.40
+kml_15,Pioneer,8.30
+kml_16,Punggol,17800.00
+kml_17,Queenstown,4400.00
+kml_34,River Valley,6800.00
+kml_35,Rochor,8300.00
+kml_18,Seletar,26.30
+kml_19,Sembawang,8400.00
+kml_20,Sengkang,23000.00
+kml_21,Serangoon,11500.00
+kml_26,Simpang,0.00
+kml_36,Singapore River,3000.00
+kml_27,Southern Islands,244.00
+kml_37,Straits View,0.00
+kml_28,Sungei Kadut,53.20
+kml_47,Tampines,12400.00
+kml_48,Tanglin,2800.00
+kml_49,Tengah,1.40
+kml_29,Toa Payoh,14300.00
+kml_30,Tuas,2.30
 kml_31,Western Islands,0.25
-kml_32,Western Water Catchment,13
-kml_33,Woodlands,"18,700"
-kml_55,Yishun,"10,100"
+kml_32,Western Water Catchment,13.00
+kml_33,Woodlands,18700.00
+kml_55,Yishun,10100.00
